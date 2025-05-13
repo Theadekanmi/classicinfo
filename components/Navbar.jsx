@@ -43,7 +43,6 @@ const Navbar = () => {
             <Link href="/" onClick={handleToggle}>Home</Link>
             <Link href="/About" onClick={handleToggle}>About</Link>
             <Link href="/Services" onClick={handleToggle}>Services</Link>
-            <Link href="/Training" onClick={handleToggle}>Training</Link>
             <Link href="/Contact" onClick={handleToggle}>Contact</Link>
           </nav>
         </div>
