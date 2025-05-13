@@ -1,7 +1,7 @@
 "use client";
 import Link from 'next/link';
 import React, { useEffect } from "react";
-import BackgroundSwiper from "@/Components/BackgroundSwiper";
+import BackgroundSwiper from "@/components/BackgroundSwiper";
 import { FaLaptop, FaInfo, FaDatabase, FaPaintBrush, FaFirefoxBrowser, FaDigitalTachograph, FaBusinessTime   } from "react-icons/fa";
 import { FaDiagramProject } from "react-icons/fa6";
 import { MdOutlineSecurity, MdComputer } from "react-icons/md";
